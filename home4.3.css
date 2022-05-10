@@ -10,7 +10,7 @@ body {
     display: flex;
     flex-direction: column;
     border-radius: 20px;
-    background-image: url(../home4.3/flower3.jpg);
+    background-image: url(./flower3.jpg);
     background-repeat: no-repeat;
     color: rgb(82, 14, 43);
     font-weight: bolder;
