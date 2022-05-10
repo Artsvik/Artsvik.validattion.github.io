@@ -1,0 +1,47 @@
+body {
+    background-image: linear-gradient(115deg, rgb(230, 192, 199) 50%, rgb(209, 180, 185) 50%);
+}
+
+.main {
+    width: 40%;
+    margin: auto;
+    margin-top: 60px;
+    padding: 30px 70px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    background-image: url(../home4.3/flower3.jpg);
+    background-repeat: no-repeat;
+    color: rgb(82, 14, 43);
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+input {
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.gender {
+    margin: 10px 0px;
+}
+
+#language {
+    margin: 10px 0px;
+}
+
+#submit {
+    margin: 10px 0px;
+    color: rgb(82, 14, 43);
+    background-color: rgb(209, 180, 185);
+    border: 1px solid rgb(208, 173, 179);
+    font-weight: bolder;
+    font-size: 18px;
+    padding: 10px 0px;
+}
+
+option {
+    font-weight: bold;
+    color: rgb(75, 9, 37);
+    background-color: rgb(209, 180, 185);
+}
